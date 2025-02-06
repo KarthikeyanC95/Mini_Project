@@ -6,7 +6,7 @@ import pandas as pd
 
 
 # Google Books API Key (Replace with your actual API key)
-API_KEY = 'AIzaSyBa_59ZupTnQEOzwpiXh2w9sQuayhveCcY'
+API_KEY = 'your api key'
 
 # Base URL for Google Books API
 BASE_URL = "https://www.googleapis.com/books/v1/volumes"
